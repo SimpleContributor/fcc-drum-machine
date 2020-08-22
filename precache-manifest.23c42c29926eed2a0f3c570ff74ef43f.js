@@ -1,7 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48f3b8dba1b640fd8f0ab7fd70dad970",
+    "revision": "aaa760172d11b3dd1451c8b7d5c960f7",
     "url": "/fcc-drum-machine/index.html"
+  },
+  {
+    "revision": "c8f1aacf2b09f374c634",
+    "url": "/fcc-drum-machine/static/css/main.13731ae0.chunk.css"
   },
   {
     "revision": "c11f1651d787af60d1c2",
@@ -12,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fcc-drum-machine/static/js/2.acaebd5d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0b77e1f1ca02ed46d54d",
-    "url": "/fcc-drum-machine/static/js/main.73155b87.chunk.js"
+    "revision": "c8f1aacf2b09f374c634",
+    "url": "/fcc-drum-machine/static/js/main.b7c0ecc9.chunk.js"
   },
   {
     "revision": "711c738c33371f5afef5",
